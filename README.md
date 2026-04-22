@@ -7,4 +7,4 @@ Digital tools for martial arts schools and training systems.
 - Kuk Sool Knowledge Base
 - ATA Student Knowledge Portal
 
-Contact: info@k2controls.net
+Contact: [info [at] k2controls [dot] net](mailto:info@k2controls.net)
